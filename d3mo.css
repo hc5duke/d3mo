@@ -1,0 +1,21 @@
+.axis path, .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.area {
+  fill: #f8f;
+}
+
+.line {
+  fill: none;
+  stroke: #a6a;
+  stroke-width: 1.5px;
+}
+
+.dot {
+  fill: #fdf;
+  stroke: #000;
+  stroke-width: 1.5px;
+}
